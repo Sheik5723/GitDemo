@@ -1,7 +1,6 @@
 package com.jsp.git;
 
 public class Test {
-
-	//feature 1
-	//feature 2
+	
+	// Feature 1 from Master
 }
